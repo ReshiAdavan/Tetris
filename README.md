@@ -11,6 +11,6 @@ A lot of games were taken down from as a result of this. As devastated as I was,
 
 ### Skills
 
-- Programming languages: HTML, Javascript, CSS
+- Programming languages: HTML, JavaScript, CSS
 - Libraries/Frameworks: React.js, Express.js, Node.js
 - Database: MongoDB
