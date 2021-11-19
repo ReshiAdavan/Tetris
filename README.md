@@ -1,8 +1,8 @@
 # Tetris
 
-Back when I was in my elementary-school days and even early high-school days, adobe flash was supported and there was tons of amazing computer games made on gaming websites like miniclip.com, agame.com, etc. Me and my friends really used to like to compete with each other in Tetris and whoever achieved the highest score won. As time passed, we grew up and eventually wanted to revisit these games for nostalgic reasons. Unfortunately, this era of computer games has died because adbobe flash is no longer supported.
+Back when I was a kid, adobe flash supported tons of amazing computer games on gaming websites like miniclip.com, agame.com, etc. During my free time, I would always compete with friends in Tetris to attain the highest score. As time passed, we grew up and eventually wanted to revisit these games out of nostalgia. Unfortunately, this era of computer games has died because adobe flash is no longer supported.
 
-A lot of games were taken down from as a result of this. As devastated as I was, I was quite curious as to see how hard it would be to create my own version of Tetris. Apparently, all it took was a bit of Javascript and React.
+As devastated as I was, I was quite curious to see how hard it would be to create my own version of Tetris. Apparently, all it took was a bit of Javascript and React.
 
 ### Features
 
